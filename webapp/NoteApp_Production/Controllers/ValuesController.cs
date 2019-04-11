@@ -76,7 +76,7 @@ namespace trial.Controllers {
 
         [HttpGet]
         [Authorize]
-        [Route ("/")]
+        [Route ("/get")]
         public ActionResult Get () {
             try {
                 //   Console.WriteLine((EnvironmentVariablesAWSCredentials.ENVIRONMENT_VARIABLE_SECRETKEY));
