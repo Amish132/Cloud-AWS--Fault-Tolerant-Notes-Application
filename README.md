@@ -1,6 +1,6 @@
 # CSYE 6225 - Spring 2019
 
-![alt text](https://github.com/Amish132/CSYE-6225---Spring-2019/blob/master/infrastructure_.jpeg "Infrastructure")
+![alt text](https://github.com/Amish132/Cloud-AWS--Fault-Tolerant-Notes-Application/blob/master/infrastructure_.jpeg "Infrastructure")
 
 ## Team Information
 
