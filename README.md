@@ -1,5 +1,7 @@
 # CSYE 6225 - Spring 2019
 
+![alt text](https://github.com/Amish132/CSYE-6225---Spring-2019/blob/master/infrastructure_.jpeg "Infrastructure")
+
 ## Team Information
 
 | Name | NEU ID | Email Address |
@@ -26,7 +28,7 @@ then run delete to delete.
 4. CI/CD is run using CircleCi and with every git push it is automatically triggered and this could be seen in the CodeDeploy.
 
 ## Running Tests
-
+Please refer to Penetration Testing PDF.
 
 ## CI/CD
 
